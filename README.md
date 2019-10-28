@@ -1,2 +1,2 @@
-# interval_analysis
+# Interval Analysis
 interval analysis demo for *while* toy language
